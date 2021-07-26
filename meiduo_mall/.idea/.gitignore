@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+# pycharm idea
+meiduo_mall/.idea/*
+.idea/*
+.idea
+../.idea/
+../meiduo_mall/__pycache__/
+
